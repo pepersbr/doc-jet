@@ -1,0 +1,10 @@
+* {
+margin:0%;
+padding:0;
+}
+
+.ghost{
+    background-color: brown;
+    padding: 10px;
+    color: blue;
+}
